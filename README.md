@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @roshan-byte
-- 👀 I’m interested in Front End Web developing and Data Science
+- 👋 Hi, I’m Roshan Kumar
+- 👀 I’m interested in data analytics and AI/ML
 - 🌱 I’m currently Pursuing graduation in computer scinece.
 - 📫 You can reach me on email:  roshansharma800@gmail.com
 
