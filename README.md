@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Roshan Kumar
-- 👀 I’m interested in data analytics and AI/ML
+- 👀 I’m interested in data science and AI/ML
 - 🌱 I’m currently Pursuing graduation in computer scinece.
 
 <!---
