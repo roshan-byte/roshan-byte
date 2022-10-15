@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Roshan Kumar
-- 👀 I’m interested in data science and AI/ML
-- 🌱 I’m currently Pursuing graduation in computer scinece.
+- 👀 I’m interested in Data Science and AI/ML
+- 🌱 I’m currently Pursuing Graduation in Computer Science.
 
 <!---
 roshan-byte/roshan-byte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
